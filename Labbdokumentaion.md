@@ -11,3 +11,6 @@ Windows-PowerShell
 c-Systementor-KonsultData-created
 Get-Acl-permissions-checked
 ping-Linux-and-ipconfig-checked
+## AI-logg
+ChatGPT-anvandes-som-stod-under-labben
+AI-hjalpte-med-Git-Linux-och-felsokning
