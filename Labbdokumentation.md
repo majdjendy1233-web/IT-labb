@@ -12,8 +12,10 @@ I denna labb har jag skapat en virtuell labbmiljö med Ubuntu och Windows 10 i V
 
 Jag skapade två virtuella datorer i VirtualBox, en Ubuntu och en Windows 10.
 
-Ubuntu IP: 192.168.1.50/24
-Windows IP: 192.168.1.51/24
+| Hostname | Operativsystem | IP-adress | Subnätmask | Standard Gateway |
+|---|---|---|---|---|
+| majed-VirtualBox | Ubuntu | 192.168.1.50 | 255.255.255.0 | Ingen, internt nätverk |
+| LAPTOP-P55MHJUE] | Windows 10 | 192.168.1.51 | 255.255.255.0 | Ingen, internt nätverk |
 
 Jag testade anslutningen mellan Ubuntu och Windows med ping. Först fungerade det inte på grund av Windows brandvägg. Efter att jag ändrade inställningen fungerade ping med 0% packet loss.
 
